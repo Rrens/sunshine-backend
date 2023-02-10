@@ -3,9 +3,9 @@
         <div class="mb-2 mb-md-0">
             ©
             <script>
-            document.write(new Date().getFullYear());
+                document.write(new Date().getFullYear());
             </script>
-            , made with ❤️ by
+            , made <a href="https://github.com/Rrens">Rrens</a>
             {{-- <a href="https://themeselection.com" target="_blank" class="footer-link fw-bolder">ThemeSelection</a> --}}
         </div>
         {{-- <div>
